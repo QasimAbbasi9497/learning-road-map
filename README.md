@@ -1,4 +1,4 @@
-# Complete Biginner 
+# Complete Beginner 
 	
 ## 1. Create Account on TryHackMe and Solve some basic room
 1. Tutorial
