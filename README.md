@@ -1,28 +1,15 @@
-# Complete Beginner 
-	
-## 1. Create Account on TryHackMe and Solve some basic room
-1. Tutorial
-    https://tryhackme.com/room/tutorial
+Signup on https://tryhackme.com/
 
-2. Starting Out In Cyber Sec
-    > https://tryhackme.com/room/startingoutincybersec
+Highly recommended THM Rooms
 
-3. Introductory Researching
-    > https://tryhackme.com/room/introtoresearch
+- [x]	[OpenVPN](https://tryhackme.com/room/openvpn)
+- [x]	[Welcome]( https://tryhackme.com/jr/welcome)
+- [x]	[Intro to Researching](https://tryhackme.com/room/introtoresearch)
+- [x]	[The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [x]	[Learn Linux](https://tryhackme.com/module/linux-fundamentals)
+- [x]	[Crash Course Pentesting](https://tryhackme.com/room/ccpentesting)
+- [x]	[Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x]	[Nmap](https://tryhackme.com/room/furthernmap)
+- [x]	[Web Fundamentals](https://tryhackme.com/room/webfundamentals)
 
-## 2. Linux Fundamentals
-1. Linux Fundamentals Part 1
-    > https://tryhackme.com/room/linuxfundamentalspart1
-
-2. Linux Fundamentals Part 2
-    > https://tryhackme.com/room/linuxfundamentalspart2
-
-3. Linux Fundamentals Part 3
-    > https://tryhackme.com/room/linuxfundamentalspart3
-
-## 3. Network Exploitation Basics
-1. Introductory Networking
-    > https://tryhackme.com/room/introtonetworking
-
-2. Nmap
-    > https://tryhackme.com/room/furthernmap
+P.S. Keep visiting THM even in the future. 
